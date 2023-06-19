@@ -1,0 +1,8 @@
+# Ejemplo de cómo ignorar una carpeta especifica
+# Ignorar la carpeta bin donde se encuentra los .class, o sea los bytecode 
+/bin
+
+# Ejemplo de cómo ignorar un archivo, en este caso los siguientes archivos
+*.class
+*.log
+
